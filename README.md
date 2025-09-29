@@ -6,7 +6,7 @@ Este projeto é uma atividade prática para demonstrar a integração entre Pyth
 
 ## 🎯 Objetivo
 
-Desenvolver um script Python capaz de realizar as quatro operações básicas de um banco de dados (CRUD) em um sistema simples de gerenciamento de pedidos.
+Adaptar um script Python capaz de realizar as quatro operações básicas de um banco de dados (CRUD) em um sistema simples de gerenciamento de pedidos.
 
 ## ✨ Funcionalidades
 
